@@ -1,0 +1,47 @@
+body {
+	background-color: pink;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-size: 50px;
+	font-weight:lighter;
+}
+
+table, th, td {
+	margin-left:auto;
+	margin-right:auto;
+	border:1px solid white;
+	padding: 10;
+	border-spacing: 7;
+}	
+
+th {
+	color: orange;
+	padding: 20;
+}
+td {
+	color:white;
+}
+th.first{
+	color: red;
+}
+th.second{
+	color: orange;
+}
+th.third {
+	color: yellow;
+}
+th.fourth {
+	color: greenyellow;
+}
+th.fifth {
+	color:floralwhite;
+	padding: 35;
+	
+}
+table {
+	height:50;
+	width:70;
+}
